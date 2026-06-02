@@ -1,2 +1,2 @@
-# Car_doc_game
-kensyu you game
+# 必要書類ゲーム
+がんばろう
